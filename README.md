@@ -1,2 +1,1 @@
-# EventSphere
-Event management website for datascience club
+# homeinterior2.0
